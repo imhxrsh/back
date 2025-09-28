@@ -1,5 +1,5 @@
-# Use Python 3.11 slim image as base
-FROM python:3.11-slim
+# Use full Python 3.11 image as base (includes more system packages)
+FROM python:3.11
 
 # Set environment variables
 ENV PYTHONDONTWRITEBYTECODE=1 \
@@ -10,30 +10,15 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
 # Set work directory
 WORKDIR /app
 
-# Install system dependencies
+# Install additional system dependencies (full Python image already has many packages)
 RUN apt-get update && apt-get install -y \
-    # Essential build tools
-    build-essential \
-    gcc \
-    g++ \
     # PDF processing dependencies
     poppler-utils \
     tesseract-ocr \
     tesseract-ocr-eng \
     tesseract-ocr-hin \
-    # Image processing dependencies
-    libgl1-mesa-glx \
-    libglib2.0-0 \
-    libsm6 \
-    libxext6 \
-    libxrender-dev \
-    libgomp1 \
-    # Additional system libraries
+    # Additional system libraries that might not be in full image
     libpq-dev \
-    libffi-dev \
-    libssl-dev \
-    # Utilities
-    curl \
     # Clean up
     && rm -rf /var/lib/apt/lists/* \
     && apt-get clean
@@ -60,16 +45,8 @@ RUN mkdir -p /app/processed_data \
 # Switch to non-root user before copying application code
 USER appuser
 
-# Copy application code (this should come after switching user)
+# Copy application code
 COPY --chown=appuser:appuser . .
-
-# Ensure the main application module exists and create it if missing
-RUN if [ ! -f "/app/app/main.py" ]; then \
-    echo "Warning: app/main.py not found. Creating a basic FastAPI app..." && \
-    mkdir -p /app/app && \
-    echo 'from fastapi import FastAPI\nfrom fastapi.responses import JSONResponse\n\napp = FastAPI(title="BlueCore Backend", version="1.0.0")\n\n@app.get("/")\nasync def root():\n    return {"message": "BlueCore Backend is running"}\n\n@app.get("/api/health")\nasync def health_check():\n    return JSONResponse(content={"status": "healthy"}, status_code=200)' > /app/app/main.py && \
-    touch /app/app/__init__.py; \
-    fi
 
 # Set proper permissions for all created directories and files
 USER root
