@@ -1,0 +1,42 @@
+{
+  "user_profile": {
+    "name": "Rahul Sharma",
+    "age": 28,
+    "city": "Mumbai",
+    "annual_income": 1200000,
+    "occupation": "Software Engineer"
+  },
+  "financial_summary": {
+    "monthly_income": 100000,
+    "monthly_expenses": 65000,
+    "monthly_savings": 35000,
+    "current_investments": 450000
+  },
+  "tax_scenario": {
+    "current_tax_liability_old": 112500,
+    "current_tax_liability_new": 90000,
+    "potential_savings": 35000,
+    "recommended_investments": [
+      {
+        "type": "ELSS",
+        "amount": 50000,
+        "tax_saving": 15000
+      },
+      {
+        "type": "PPF",
+        "amount": 100000,
+        "tax_saving": 30000
+      }
+    ]
+  },
+  "cibil_analysis": {
+    "estimated_score": 750,
+    "factors": {
+      "payment_history": "excellent",
+      "credit_utilization": 28,
+      "account_age": "5 years",
+      "credit_mix": "good"
+    },
+    "improvement_potential": 25
+  }
+}

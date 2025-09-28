@@ -1,0 +1,38 @@
+{
+  "sample_financial_query": {
+    "question": "How much can I save in tax by investing in ELSS funds?",
+    "income_details": {
+      "annual_salary": 800000,
+      "other_income": 50000,
+      "current_80c_investments": 80000
+    }
+  },
+  "sample_cibil_data": {
+    "credit_data": {
+      "monthly_income": 75000,
+      "existing_loans": [
+        {
+          "type": "home_loan",
+          "emi": 25000,
+          "outstanding": 1500000
+        },
+        {
+          "type": "car_loan",
+          "emi": 15000,
+          "outstanding": 300000
+        }
+      ],
+      "credit_cards": [
+        {
+          "limit": 200000,
+          "outstanding": 45000,
+          "minimum_due": 4500
+        }
+      ],
+      "payment_history": {
+        "delays_in_12_months": 2,
+        "missed_payments": 0
+      }
+    }
+  }
+}

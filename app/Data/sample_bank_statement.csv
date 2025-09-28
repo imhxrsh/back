@@ -1,0 +1,224 @@
+date,description,amount,type,category,balance
+2024-10-03,Salary Credit - Company XYZ,70659,Credit,Salary,120659
+2024-10-03,Groceries - Mahajan-Reddy,-1450,Debit,Groceries,119209
+2024-10-04,Dining Out - Kurian Ltd,-552,Debit,Dining Out,118657
+2024-10-06,Transportation - Atwal Ltd,-419,Debit,Transportation,118238
+2024-10-10,Rent - Tripathi PLC,-15112,Debit,Rent,103126
+2024-10-10,"Groceries - Seshadri, Loke and Sama",-1752,Debit,Groceries,101374
+2024-10-14,Transportation - Chhabra Ltd,-1184,Debit,Transportation,100190
+2024-10-14,Dining Out - Sethi PLC,-249,Debit,Dining Out,99941
+2024-10-14,Home Loan EMI - Investment,-7056,Debit,Investment,92885
+2024-10-17,PPF - Investment,-6937,Debit,Investment,85948
+2024-10-18,Dining Out - D’Alia Group,-188,Debit,Dining Out,85760
+2024-10-18,NSC - Investment,-9646,Debit,Investment,76114
+2024-10-22,Groceries - Sami-Acharya,-891,Debit,Groceries,75223
+2024-10-22,Transportation - Apte-Panchal,-640,Debit,Transportation,74583
+2024-10-24,Utilities - Batta-Manda,-3880,Debit,Utilities,70703
+2024-10-26,Transportation - Sharma-Om,-960,Debit,Transportation,69743
+2024-10-26,Dining Out - Mandal-Shankar,-624,Debit,Dining Out,69119
+2024-10-26,SIP - Equity - Investment,-8153,Debit,Investment,60966
+2024-10-27,"Groceries - Choudhry, Lata and Bajaj",-759,Debit,Groceries,60207
+2024-10-29,Entertainment - Dara Inc,-2979,Debit,Entertainment,57228
+2024-11-02,"Transportation - Badal, Pillay and Borde",-842,Debit,Transportation,56386
+2024-11-03,Salary Credit - Company XYZ,82366,Credit,Salary,138752
+2024-11-05,Groceries - Verma Inc,-842,Debit,Groceries,137910
+2024-11-06,Dining Out - Tandon and Sons,-664,Debit,Dining Out,137246
+2024-11-07,Entertainment - Raman PLC,-3154,Debit,Entertainment,134092
+2024-11-10,Groceries - Mukherjee PLC,-1092,Debit,Groceries,133000
+2024-11-11,Transportation - Virk-Batra,-1067,Debit,Transportation,131933
+2024-11-13,Dining Out - Rattan PLC,-701,Debit,Dining Out,131232
+2024-11-13,NSC - Investment,-6057,Debit,Investment,125175
+2024-11-18,Utilities - Kaul Group,-5309,Debit,Utilities,119866
+2024-11-19,Groceries - Lall LLC,-1277,Debit,Groceries,118589
+2024-11-19,Dining Out - Deo PLC,-582,Debit,Dining Out,118007
+2024-11-20,Transportation - Dutt-Dewan,-559,Debit,Transportation,117448
+2024-11-21,Car Loan EMI - Investment,-7641,Debit,Investment,109807
+2024-11-24,"Groceries - Nagar, Sankaran and Lal",-1084,Debit,Groceries,108723
+2024-11-25,PPF - Investment,-12500,Debit,Investment,96223
+2024-11-26,Transportation - Batra-Narain,-1123,Debit,Transportation,95100
+2024-11-27,Rent - Kala Group,-29533,Debit,Rent,65567
+2024-11-28,"Dining Out - Goda, Loyal and Brar",-509,Debit,Dining Out,65058
+2024-12-03,Salary Credit - Company XYZ,80672,Credit,Salary,145730
+2024-12-04,"Dining Out - Chadha, Cheema and Narang",-693,Debit,Dining Out,145037
+2024-12-06,"Groceries - Mahal, Khosla and Srivastava",-1286,Debit,Groceries,143751
+2024-12-07,Transportation - Rajagopal-Murthy,-869,Debit,Transportation,142882
+2024-12-12,Dining Out - D’Alia and Sons,-734,Debit,Dining Out,142148
+2024-12-13,"Groceries - Sahota, Ramesh and Chakrabarti",-1896,Debit,Groceries,140252
+2024-12-13,Fixed Deposit - Investment,-5698,Debit,Investment,134554
+2024-12-14,"Transportation - Barad, Minhas and Chowdhury",-693,Debit,Transportation,133861
+2024-12-16,Rent - Gour-Tata,-19868,Debit,Rent,113993
+2024-12-16,Utilities - Kumar-Palla,-5422,Debit,Utilities,108571
+2024-12-17,Groceries - Ghosh Group,-1813,Debit,Groceries,106758
+2024-12-20,Dining Out - Sachdeva and Sons,-722,Debit,Dining Out,106036
+2024-12-21,"Transportation - Shenoy, Karan and Saha",-508,Debit,Transportation,105528
+2024-12-22,Entertainment - Cheema Ltd,-3763,Debit,Entertainment,101765
+2024-12-23,Personal Loan EMI - Investment,-8205,Debit,Investment,93560
+2024-12-23,SIP - ELSS - Investment,-9471,Debit,Investment,84089
+2024-12-24,Groceries - Rout PLC,-1167,Debit,Groceries,82922
+2024-12-26,Dining Out - Ramanathan-Purohit,-305,Debit,Dining Out,82617
+2024-12-27,Transportation - Dugar-Raghavan,-1016,Debit,Transportation,81601
+2025-01-03,Salary Credit - Company XYZ,82048,Credit,Salary,163649
+2025-01-03,Transportation - Choudhry Inc,-463,Debit,Transportation,163186
+2025-01-04,"Dining Out - Khatri, Wali and Kala",-448,Debit,Dining Out,162738
+2025-01-05,Groceries - Grewal and Sons,-1003,Debit,Groceries,161735
+2025-01-05,"Entertainment - Dhaliwal, Doshi and Buch",-2548,Debit,Entertainment,159187
+2025-01-10,Groceries - Sha PLC,-1433,Debit,Groceries,157754
+2025-01-10,"Dining Out - Parmer, Arya and Hayer",-627,Debit,Dining Out,157127
+2025-01-12,"Transportation - Gaba, Parsa and Nayar",-1180,Debit,Transportation,155947
+2025-01-16,"Rent - Chakraborty, Bhagat and Sodhi",-30862,Debit,Rent,125085
+2025-01-16,"Utilities - Bansal, Iyer and Rege",-2676,Debit,Utilities,122409
+2025-01-17,"Groceries - Chatterjee, Pall and Dutt",-823,Debit,Groceries,121586
+2025-01-18,Transportation - Samra PLC,-774,Debit,Transportation,120812
+2025-01-18,Dining Out - Palla-Seth,-278,Debit,Dining Out,120534
+2025-01-19,Car Loan EMI - Investment,-7128,Debit,Investment,113406
+2025-01-23,Dining Out - Varughese Inc,-687,Debit,Dining Out,112719
+2025-01-23,Health Insurance Premium - Investment,-5787,Debit,Investment,106932
+2025-01-25,Groceries - Nair PLC,-1843,Debit,Groceries,105089
+2025-01-26,"Transportation - Ram, Dhillon and Roy",-512,Debit,Transportation,104577
+2025-01-31,Transportation - Dora-Vasa,-965,Debit,Transportation,103612
+2025-02-03,Salary Credit - Company XYZ,83886,Credit,Salary,187498
+2025-02-04,Dining Out - Loyal and Sons,-336,Debit,Dining Out,187162
+2025-02-05,Groceries - Srinivas-Loke,-1436,Debit,Groceries,185726
+2025-02-07,Groceries - Dube and Sons,-772,Debit,Groceries,184954
+2025-02-08,"Transportation - Panchal, Nori and Oak",-1207,Debit,Transportation,183747
+2025-02-09,SIP - ELSS - Investment,-3583,Debit,Investment,180164
+2025-02-12,Dining Out - Brahmbhatt-Agate,-234,Debit,Dining Out,179930
+2025-02-14,"Utilities - Varkey, Thaker and Andra",-2635,Debit,Utilities,177295
+2025-02-16,"Groceries - Rout, Prabhakar and Krish",-1609,Debit,Groceries,175686
+2025-02-16,"Dining Out - Narayan, Atwal and Babu",-691,Debit,Dining Out,174995
+2025-02-16,Health Insurance Premium - Investment,-2975,Debit,Investment,172020
+2025-02-18,Entertainment - Edwin-Baria,-1231,Debit,Entertainment,170789
+2025-02-19,Transportation - Aggarwal-Mohanty,-419,Debit,Transportation,170370
+2025-02-22,"Groceries - Gera, Verma and Agarwal",-1610,Debit,Groceries,168760
+2025-02-22,Transportation - Keer PLC,-426,Debit,Transportation,168334
+2025-02-25,Rent - Ganesan-Bains,-18454,Debit,Rent,149880
+2025-02-25,"Dining Out - Peri, Misra and Kalla",-386,Debit,Dining Out,149494
+2025-03-02,Salary Credit - Company XYZ,79476,Credit,Salary,228970
+2025-03-02,Dining Out - Viswanathan PLC,-746,Debit,Dining Out,228224
+2025-03-05,Groceries - Mangat and Sons,-980,Debit,Groceries,227244
+2025-03-06,Transportation - Bains-Subramaniam,-379,Debit,Transportation,226865
+2025-03-11,"Entertainment - Bhat, Raman and Hora",-1858,Debit,Entertainment,225007
+2025-03-12,"Dining Out - Chaudry, Mitter and Oza",-414,Debit,Dining Out,224593
+2025-03-12,SIP - Equity - Investment,-1662,Debit,Investment,222931
+2025-03-13,Groceries - Majumdar Group,-1887,Debit,Groceries,221044
+2025-03-14,Transportation - Bhavsar-Mann,-974,Debit,Transportation,220070
+2025-03-14,SIP - ELSS - Investment,-11978,Debit,Investment,208092
+2025-03-17,"Rent - Bhandari, Gara and Vala",-30151,Debit,Rent,177941
+2025-03-18,"Dining Out - Merchant, Ahluwalia and Singh",-566,Debit,Dining Out,177375
+2025-03-19,Groceries - Krishnan-Hans,-798,Debit,Groceries,176577
+2025-03-19,Utilities - Kurian-Varma,-4534,Debit,Utilities,172043
+2025-03-21,"Transportation - Karnik, Biswas and Sankar",-679,Debit,Transportation,171364
+2025-03-24,"Groceries - Balasubramanian, Sani and Bose",-1940,Debit,Groceries,169424
+2025-03-27,"Transportation - Kala, Ramachandran and Goda",-995,Debit,Transportation,168429
+2025-03-27,"Dining Out - Acharya, Bora and Sundaram",-608,Debit,Dining Out,167821
+2025-04-01,Salary Credit - Company XYZ,84135,Credit,Salary,251956
+2025-04-01,Transportation - Keer-Bhatia,-1062,Debit,Transportation,250894
+2025-04-02,"Dining Out - Rege, Ray and Rana",-536,Debit,Dining Out,250358
+2025-04-03,Groceries - Bora-Manne,-803,Debit,Groceries,249555
+2025-04-07,Rent - Khare-Varty,-39536,Debit,Rent,210019
+2025-04-07,Utilities - Deo-Dube,-2095,Debit,Utilities,207924
+2025-04-09,"Dining Out - Hayre, Om and Kumar",-701,Debit,Dining Out,207223
+2025-04-11,Groceries - Soman-Uppal,-1472,Debit,Groceries,205751
+2025-04-11,"Transportation - Choudhary, Bhalla and Mody",-909,Debit,Transportation,204842
+2025-04-14,NSC - Investment,-4931,Debit,Investment,199911
+2025-04-16,Dining Out - Wason LLC,-381,Debit,Dining Out,199530
+2025-04-16,Personal Loan EMI - Investment,-12270,Debit,Investment,187260
+2025-04-17,Entertainment - Sahota-Tella,-1086,Debit,Entertainment,186174
+2025-04-18,Groceries - Mannan-Sekhon,-1908,Debit,Groceries,184266
+2025-04-20,"Transportation - Chaudhry, De and Prabhakar",-1148,Debit,Transportation,183118
+2025-04-21,SIP - Equity - Investment,-7228,Debit,Investment,175890
+2025-04-23,"Groceries - Roy, Walla and Grover",-1065,Debit,Groceries,174825
+2025-04-23,Dining Out - Agrawal and Sons,-567,Debit,Dining Out,174258
+2025-04-24,Transportation - Wali-Sha,-632,Debit,Transportation,173626
+2025-05-05,Salary Credit - Company XYZ,77797,Credit,Salary,251423
+2025-05-05,"Rent - Agrawal, Kara and Walia",-29193,Debit,Rent,222230
+2025-05-05,Groceries - Krishnan-Gola,-1823,Debit,Groceries,220407
+2025-05-06,"Transportation - Hari, Rajagopalan and Mandal",-1205,Debit,Transportation,219202
+2025-05-06,Dining Out - Ahluwalia-Nagarajan,-217,Debit,Dining Out,218985
+2025-05-09,Groceries - Sastry Inc,-1945,Debit,Groceries,217040
+2025-05-11,Transportation - Nayak LLC,-391,Debit,Transportation,216649
+2025-05-11,Dining Out - Bose and Sons,-288,Debit,Dining Out,216361
+2025-05-12,Life Insurance Premium - Investment,-4897,Debit,Investment,211464
+2025-05-17,Transportation - Saha Inc,-794,Debit,Transportation,210670
+2025-05-19,Groceries - Dixit-Bawa,-986,Debit,Groceries,209684
+2025-05-19,"Utilities - Mittal, Vaidya and Mukhopadhyay",-4227,Debit,Utilities,205457
+2025-05-19,Dining Out - Datta-Mahajan,-497,Debit,Dining Out,204960
+2025-05-21,Car Loan EMI - Investment,-10558,Debit,Investment,194402
+2025-05-22,"Groceries - Badami, Pai and Warrior",-1711,Debit,Groceries,192691
+2025-05-22,Entertainment - Goswami Ltd,-2909,Debit,Entertainment,189782
+2025-05-23,"Dining Out - Kant, Dube and Gokhale",-236,Debit,Dining Out,189546
+2025-05-24,Transportation - Kunda-Mann,-1128,Debit,Transportation,188418
+2025-06-01,Salary Credit - Company XYZ,75061,Credit,Salary,263479
+2025-06-01,Dining Out - Varughese-Ganguly,-165,Debit,Dining Out,263314
+2025-06-04,Rent - Lalla-Balakrishnan,-19972,Debit,Rent,243342
+2025-06-04,Groceries - Reddy PLC,-1225,Debit,Groceries,242117
+2025-06-05,Transportation - Mittal Ltd,-875,Debit,Transportation,241242
+2025-06-10,Dining Out - Johal-Mander,-338,Debit,Dining Out,240904
+2025-06-11,Groceries - Sarna Inc,-1575,Debit,Groceries,239329
+2025-06-11,Transportation - Upadhyay Ltd,-620,Debit,Transportation,238709
+2025-06-15,Utilities - Ranganathan-Sur,-4475,Debit,Utilities,234234
+2025-06-18,"Dining Out - Sawhney, Dua and Bains",-270,Debit,Dining Out,233964
+2025-06-18,SIP - Equity - Investment,-5472,Debit,Investment,228492
+2025-06-19,"Groceries - Dasgupta, Balasubramanian and Choudhary",-1555,Debit,Groceries,226937
+2025-06-19,Transportation - Samra Group,-1135,Debit,Transportation,225802
+2025-06-21,Groceries - Rai-Bail,-752,Debit,Groceries,225050
+2025-06-21,Transportation - Gara Ltd,-1085,Debit,Transportation,223965
+2025-06-21,Entertainment - Raja Group,-1233,Debit,Entertainment,222732
+2025-06-23,"Dining Out - Sanghvi, Goda and Bedi",-397,Debit,Dining Out,222335
+2025-06-23,PPF - Investment,-1157,Debit,Investment,221178
+2025-07-03,Groceries - Barad PLC,-1155,Debit,Groceries,220023
+2025-07-03,Transportation - Pillai Inc,-563,Debit,Transportation,219460
+2025-07-03,Dining Out - Srinivas and Sons,-654,Debit,Dining Out,218806
+2025-07-04,Salary Credit - Company XYZ,70576,Credit,Salary,289382
+2025-07-08,"Utilities - Patel, Garg and Tank",-3369,Debit,Utilities,286013
+2025-07-10,Dining Out - Nagarajan Inc,-695,Debit,Dining Out,285318
+2025-07-10,"Entertainment - Dada, Badal and Sawhney",-2642,Debit,Entertainment,282676
+2025-07-11,Transportation - Dube-Mall,-1099,Debit,Transportation,281577
+2025-07-12,Groceries - Mandal-Rana,-1858,Debit,Groceries,279719
+2025-07-13,Home Loan EMI - Investment,-2607,Debit,Investment,277112
+2025-07-15,"Groceries - Madan, Ganesan and Rai",-1805,Debit,Groceries,275307
+2025-07-15,Dining Out - Amble-Toor,-622,Debit,Dining Out,274685
+2025-07-19,Transportation - Patla Group,-1180,Debit,Transportation,273505
+2025-07-19,Personal Loan EMI - Investment,-8824,Debit,Investment,264681
+2025-07-20,Life Insurance Premium - Investment,-2138,Debit,Investment,262543
+2025-07-22,Health Insurance Premium - Investment,-12839,Debit,Investment,249704
+2025-07-23,Rent - Bir Group,-32555,Debit,Rent,217149
+2025-07-24,Dining Out - Bahri Group,-235,Debit,Dining Out,216914
+2025-07-25,Transportation - Goswami-Narain,-937,Debit,Transportation,215977
+2025-07-26,Groceries - Singhal-Bansal,-845,Debit,Groceries,215132
+2025-07-30,"Groceries - Agrawal, Nazareth and Palla",-1961,Debit,Groceries,213171
+2025-07-31,Dining Out - Soman-Bansal,-264,Debit,Dining Out,212907
+2025-08-02,Salary Credit - Company XYZ,71994,Credit,Salary,284901
+2025-08-04,Transportation - Sunder-Lad,-458,Debit,Transportation,284443
+2025-08-06,Dining Out - Ganesan-Dhaliwal,-399,Debit,Dining Out,284044
+2025-08-08,Groceries - Kalita-Kannan,-1594,Debit,Groceries,282450
+2025-08-08,Utilities - Cheema and Sons,-5741,Debit,Utilities,276709
+2025-08-09,Transportation - Bahl PLC,-674,Debit,Transportation,276035
+2025-08-14,Dining Out - Palla Ltd,-262,Debit,Dining Out,275773
+2025-08-16,Life Insurance Premium - Investment,-8387,Debit,Investment,267386
+2025-08-17,Transportation - Bakshi-Nagarajan,-929,Debit,Transportation,266457
+2025-08-18,Groceries - Sathe Inc,-1265,Debit,Groceries,265192
+2025-08-21,Dining Out - Basu LLC,-436,Debit,Dining Out,264756
+2025-08-21,SIP - ELSS - Investment,-7452,Debit,Investment,257304
+2025-08-22,Groceries - Minhas Inc,-754,Debit,Groceries,256550
+2025-08-23,Transportation - Sagar LLC,-880,Debit,Transportation,255670
+2025-08-24,Entertainment - Andra PLC,-3480,Debit,Entertainment,252190
+2025-08-25,Rent - Menon PLC,-30120,Debit,Rent,222070
+2025-08-29,Dining Out - Kapur LLC,-407,Debit,Dining Out,221663
+2025-09-02,Salary Credit - Company XYZ,81476,Credit,Salary,303139
+2025-09-02,Groceries - Balay and Sons,-1105,Debit,Groceries,302034
+2025-09-03,"Transportation - Borde, Som and Varughese",-722,Debit,Transportation,301312
+2025-09-05,Groceries - Khalsa-Om,-1713,Debit,Groceries,299599
+2025-09-05,Dining Out - Keer Group,-438,Debit,Dining Out,299161
+2025-09-09,Transportation - Ray-Gola,-634,Debit,Transportation,298527
+2025-09-12,Fixed Deposit - Investment,-14127,Debit,Investment,284400
+2025-09-13,"Utilities - Oza, Tripathi and Setty",-5710,Debit,Utilities,278690
+2025-09-13,SIP - Equity - Investment,-12500,Debit,Investment,266190
+2025-09-14,Groceries - Sekhon Group,-1272,Debit,Groceries,264918
+2025-09-14,Entertainment - Choudhry-Vyas,-1544,Debit,Entertainment,263374
+2025-09-15,Transportation - Salvi Inc,-997,Debit,Transportation,262377
+2025-09-17,Dining Out - Prashad-Bhatia,-248,Debit,Dining Out,262129
+2025-09-21,Rent - Bajaj-Loyal,-31035,Debit,Rent,231094
+2025-09-22,Groceries - Hans-Naik,-1929,Debit,Groceries,229165
+2025-09-22,"Transportation - Mane, Chandra and Sura",-526,Debit,Transportation,228639
+2025-09-22,Dining Out - Ramakrishnan-Sabharwal,-291,Debit,Dining Out,228348

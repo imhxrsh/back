@@ -1,0 +1,369 @@
+date,description,amount,category,card_type,merchant
+2024-10-20,"Utilities - Shetty, Chaudhuri and Hayer",2512.0,Utilities,Credit Card,Kar Inc
+2024-10-21,Travel - Ratti-Agarwal,2882.0,Travel,Credit Card,Mammen Group
+2024-10-30,Dining - De PLC,1589.0,Dining,Credit Card,Loke-Memon
+2024-10-15,Groceries - Thaker-Shenoy,2333.0,Groceries,Credit Card,Patla-Shanker
+2024-10-14,"Fuel - Rastogi, Borah and Tiwari",419.0,Fuel,Credit Card,"Viswanathan, Chakraborty and Mahal"
+2024-10-15,Dining - Gola-Chokshi,1257.0,Dining,Credit Card,Halder Group
+2024-10-03,"Entertainment - Sankaran, Chadha and Borde",3187.0,Entertainment,Credit Card,Thaman and Sons
+2024-10-18,Groceries - Bhandari-Sani,1788.0,Groceries,Credit Card,More-Chaudry
+2024-10-22,Groceries - Chopra Inc,981.0,Groceries,Credit Card,Sandal-Sur
+2024-10-19,Groceries - Gulati and Sons,3170.0,Groceries,Credit Card,Chadha-Arora
+2024-10-25,"Dining - Saini, Apte and Wagle",1703.0,Dining,Credit Card,Kade PLC
+2024-10-13,Entertainment - Chandran-Mahal,261.0,Entertainment,Credit Card,Atwal and Sons
+2024-10-22,Online Shopping - Din LLC,1787.0,Online Shopping,Credit Card,"Madan, Keer and Shenoy"
+2024-10-06,"Medical - Bassi, Mallick and Vohra",3258.0,Medical,Credit Card,Sachar-Narula
+2024-10-03,"Utilities - Zachariah, Sharma and Rajagopal",2032.0,Utilities,Credit Card,Solanki-Pandya
+2024-10-28,Groceries - Ganguly-Bedi,2870.0,Groceries,Credit Card,Virk and Sons
+2024-10-04,Utilities - Sama Group,1255.0,Utilities,Credit Card,Mallick PLC
+2024-10-09,Medical - Basu Ltd,1590.0,Medical,Credit Card,Basu and Sons
+2024-10-22,Dining - Sundaram-Bail,2841.0,Dining,Credit Card,"Pau, Buch and Dewan"
+2024-10-12,Travel - Sridhar-Chaudhry,3473.0,Travel,Credit Card,Dugal Ltd
+2024-10-19,Groceries - Atwal-Menon,715.0,Groceries,Credit Card,Ravel-Mohan
+2024-10-30,"Groceries - Gandhi, Sarraf and Sehgal",934.0,Groceries,Credit Card,"Magar, Kulkarni and Dubey"
+2024-10-21,Utilities - Rattan-Sekhon,1343.0,Utilities,Credit Card,Bhatnagar-Dasgupta
+2024-10-24,"Travel - Krishnan, Rai and D’Alia",580.0,Travel,Credit Card,Mittal-Tara
+2024-10-04,Travel - Pandya LLC,1750.0,Travel,Credit Card,Babu-Prabhakar
+2024-10-03,"Fuel - Amble, Brar and Golla",561.0,Fuel,Credit Card,Behl Group
+2024-10-09,Utilities - Bhagat LLC,1279.0,Utilities,Credit Card,Mistry-Desai
+2024-10-23,Fuel - Dani PLC,1191.0,Fuel,Credit Card,Kata PLC
+2024-10-18,Online Shopping - Buch-Pandit,1199.0,Online Shopping,Credit Card,Walla-Oommen
+2024-10-15,"Dining - Doshi, Sandal and Kannan",1033.0,Dining,Credit Card,"Pal, Sathe and Kakar"
+2024-10-23,"Fuel - Hayre, Nath and Sani",3346.0,Fuel,Credit Card,Basu LLC
+2024-10-16,Groceries - Warrior-Borde,2262.0,Groceries,Credit Card,Raval-Patla
+2024-10-04,Fuel - Kuruvilla Inc,2373.0,Fuel,Credit Card,Kant-Babu
+2024-10-28,Groceries - Lal-Gera,446.0,Groceries,Credit Card,"Kamdar, Walla and Khosla"
+2024-10-31,Credit Card Payment,-27730.28953302599,Payment,Payment,Bank Payment
+2024-11-04,Fuel - Sarraf-Prabhakar,1479.0,Fuel,Credit Card,"Sharma, Sagar and Shroff"
+2024-11-09,"Online Shopping - Cherian, Oommen and Ramakrishnan",2336.0,Online Shopping,Credit Card,"Kaul, Subramaniam and Master"
+2024-11-06,Groceries - Mutti-Nayak,2100.0,Groceries,Credit Card,"Dalal, Suresh and Barad"
+2024-11-12,Medical - Chaudhry-Mittal,2807.0,Medical,Credit Card,"Dhillon, Bajwa and Setty"
+2024-11-16,Dining - Pillai Inc,1662.0,Dining,Credit Card,Chaudhry-Bera
+2024-11-13,Dining - Sani-Soman,1347.0,Dining,Credit Card,Sethi Ltd
+2024-11-25,Fuel - Master PLC,1120.0,Fuel,Credit Card,"Sampath, Karan and Taneja"
+2024-11-26,Dining - Sant-Nagy,2923.0,Dining,Credit Card,Bhasin-Dewan
+2024-11-22,"Groceries - Nori, Guha and Wadhwa",1636.0,Groceries,Credit Card,Garg-Master
+2024-11-24,Groceries - Parikh Inc,2737.0,Groceries,Credit Card,Parekh Ltd
+2024-11-09,Entertainment - Dey-Manne,2195.0,Entertainment,Credit Card,"Sarna, Oommen and Thakkar"
+2024-11-04,Medical - Saran Ltd,1014.0,Medical,Credit Card,Chad Ltd
+2024-11-09,"Groceries - Sankaran, Devan and Sankaran",1439.0,Groceries,Credit Card,Varghese Ltd
+2024-11-22,Online Shopping - Varty-Swaminathan,2192.0,Online Shopping,Credit Card,"Sen, Pillai and Kala"
+2024-11-17,Fuel - Ganguly Group,3108.0,Fuel,Credit Card,Taneja-Subramaniam
+2024-11-16,"Utilities - Comar, Bhardwaj and Memon",671.0,Utilities,Credit Card,"Deo, Jhaveri and Ganguly"
+2024-11-21,"Travel - Naik, Khare and Rana",1969.0,Travel,Credit Card,Deol-Wagle
+2024-11-25,Groceries - Grewal PLC,733.0,Groceries,Credit Card,Gara Ltd
+2024-11-03,Online Shopping - Sahota and Sons,3342.0,Online Shopping,Credit Card,Munshi Inc
+2024-11-13,Utilities - Natt Group,1775.0,Utilities,Credit Card,"Dalal, Rattan and Sehgal"
+2024-11-12,"Travel - Sagar, Dada and Gaba",1200.0,Travel,Credit Card,Sagar-Sankar
+2024-11-19,"Entertainment - Dube, Jha and Babu",3170.0,Entertainment,Credit Card,Murty-Saini
+2024-11-20,Utilities - Dey Ltd,2216.0,Utilities,Credit Card,"Kulkarni, Chand and Sood"
+2024-11-06,Online Shopping - Hegde-Madan,2554.0,Online Shopping,Credit Card,Purohit LLC
+2024-11-06,Medical - Acharya-Ben,3498.0,Medical,Credit Card,Raghavan-Iyer
+2024-11-29,Fuel - Krishnamurthy Inc,801.0,Fuel,Credit Card,"Mani, Ghose and Sahni"
+2024-11-20,Travel - Borah PLC,1227.0,Travel,Credit Card,Sani Ltd
+2024-11-29,Utilities - Khare and Sons,508.0,Utilities,Credit Card,Sandhu LLC
+2024-11-22,Utilities - Pathak-Nanda,1222.0,Utilities,Credit Card,Banerjee Ltd
+2024-11-23,Entertainment - Narayanan-Sem,3242.0,Entertainment,Credit Card,Chaudhari PLC
+2024-11-12,"Medical - Shetty, Johal and Thakur",2569.0,Medical,Credit Card,Sankaran-Narula
+2024-11-17,Utilities - Bala-Batra,3229.0,Utilities,Credit Card,Zacharia-Issac
+2024-11-27,Credit Card Payment,-31691.165122995044,Payment,Payment,Bank Payment
+2024-12-26,Online Shopping - Bawa-Naik,1332.0,Online Shopping,Credit Card,Prashad-Nagi
+2024-12-19,"Medical - Prabhakar, Balay and Sani",1533.0,Medical,Credit Card,Yogi-Khalsa
+2024-12-07,Travel - Subramanian-Vaidya,257.0,Travel,Credit Card,"Parikh, Khosla and Wadhwa"
+2024-12-28,Utilities - Iyer-Kala,445.0,Utilities,Credit Card,Srinivasan Inc
+2024-12-28,"Entertainment - Hari, Sanghvi and Kari",1391.0,Entertainment,Credit Card,Bajaj-Savant
+2024-12-06,"Entertainment - Mander, Palla and Keer",1766.0,Entertainment,Credit Card,"Borra, Joshi and Chokshi"
+2024-12-09,"Medical - Munshi, Basu and Sankar",244.0,Medical,Credit Card,"Cheema, Mital and Mittal"
+2024-12-06,Medical - Subramanian Ltd,1886.0,Medical,Credit Card,Vaidya Inc
+2024-12-02,Utilities - Sheth and Sons,398.0,Utilities,Credit Card,Misra Inc
+2024-12-11,"Travel - Basu, Sathe and Konda",1309.0,Travel,Credit Card,Sundaram-Lata
+2024-12-26,"Fuel - Oza, Mahajan and D’Alia",1104.0,Fuel,Credit Card,Yadav-Rege
+2024-12-04,Travel - Date-Dugal,903.0,Travel,Credit Card,Choudhary Inc
+2024-12-27,Entertainment - Divan-Seshadri,1354.0,Entertainment,Credit Card,"Char, Morar and Bakshi"
+2024-12-20,"Entertainment - Chaudhary, Magar and Mane",1826.0,Entertainment,Credit Card,Korpal-Boase
+2024-12-24,Fuel - Kapadia-Karnik,266.0,Fuel,Credit Card,Bhandari-Anne
+2024-12-03,Utilities - Nagarajan-Bansal,767.0,Utilities,Credit Card,"Patla, Palan and Nanda"
+2024-12-15,Dining - Peri-Acharya,1754.0,Dining,Credit Card,Divan and Sons
+2024-12-28,"Entertainment - Rau, Mital and Swaminathan",1387.0,Entertainment,Credit Card,Deo Ltd
+2024-12-07,"Online Shopping - Goel, Madan and Bala",1684.0,Online Shopping,Credit Card,Hegde and Sons
+2024-12-20,"Online Shopping - Purohit, Vora and Pandit",502.0,Online Shopping,Credit Card,Cheema-Swaminathan
+2024-12-21,"Groceries - Chowdhury, Chopra and Sant",1709.0,Groceries,Credit Card,Mistry-Jaggi
+2024-12-06,Travel - Parikh Group,1317.0,Travel,Credit Card,"Devi, Devi and Mahajan"
+2024-12-07,"Entertainment - Mishra, Tailor and Mitra",732.0,Entertainment,Credit Card,"Nagar, Karnik and Koshy"
+2024-12-04,Utilities - Dalal-Bajwa,1824.0,Utilities,Credit Card,Arora and Sons
+2024-12-04,Online Shopping - Narayanan LLC,1643.0,Online Shopping,Credit Card,Mann-Master
+2024-12-29,"Dining - Sandhu, Mukhopadhyay and Arora",1820.0,Dining,Credit Card,"Das, Guha and Chand"
+2024-12-26,Credit Card Payment,-17439.75571685319,Payment,Payment,Bank Payment
+2025-01-20,Travel - Krishnamurthy-Walla,2255.0,Travel,Credit Card,Subramanian-Padmanabhan
+2025-01-26,Fuel - Gandhi-Palla,401.0,Fuel,Credit Card,"Nagi, Bains and Lall"
+2025-01-17,Online Shopping - Sen LLC,472.0,Online Shopping,Credit Card,"Suri, Bava and Ramaswamy"
+2025-01-09,"Travel - Rajagopal, Ben and Kurian",1022.0,Travel,Credit Card,Edwin-Dada
+2025-01-11,Medical - Sibal LLC,1150.0,Medical,Credit Card,Mallick PLC
+2025-01-01,Groceries - Tank Group,763.0,Groceries,Credit Card,Rajagopalan and Sons
+2025-01-14,"Groceries - Raju, Thakkar and Sarraf",2013.0,Groceries,Credit Card,Jaggi-Sankar
+2025-01-20,"Dining - Halder, Ramesh and Rajagopalan",2074.0,Dining,Credit Card,Mitter Ltd
+2025-01-20,Entertainment - Gill Inc,2352.0,Entertainment,Credit Card,Solanki-Arya
+2025-01-07,Travel - Kaul PLC,207.0,Travel,Credit Card,"Varty, Suri and Rout"
+2025-01-18,Fuel - Nair Group,1151.0,Fuel,Credit Card,Mahal-Dhaliwal
+2025-01-28,Fuel - Sur-Kaul,2189.0,Fuel,Credit Card,"Das, Bhatt and Chandra"
+2025-01-09,Entertainment - Mane PLC,1282.0,Entertainment,Credit Card,Hegde Group
+2025-01-06,"Travel - Char, Oza and Kala",2436.0,Travel,Credit Card,Misra-Ramaswamy
+2025-01-09,Online Shopping - Samra-Kala,1643.0,Online Shopping,Credit Card,Sidhu Inc
+2025-01-17,Utilities - Bath-Shroff,2034.0,Utilities,Credit Card,Verma-Ganesh
+2025-01-19,Fuel - Naidu Inc,915.0,Fuel,Credit Card,Vaidya-Agate
+2025-01-02,Online Shopping - Sarna and Sons,920.0,Online Shopping,Credit Card,Johal Inc
+2025-01-02,Groceries - Konda-Gour,476.0,Groceries,Credit Card,Bhat LLC
+2025-01-03,Entertainment - Anand PLC,1473.0,Entertainment,Credit Card,Som Inc
+2025-01-22,"Utilities - Sharma, Raval and Bhakta",314.0,Utilities,Credit Card,Dubey-Padmanabhan
+2025-01-19,"Medical - Balasubramanian, Karan and Dara",2492.0,Medical,Credit Card,Varughese-Keer
+2025-01-18,Medical - Murty Group,537.0,Medical,Credit Card,Chahal Group
+2025-01-22,Utilities - Sachdev and Sons,1504.0,Utilities,Credit Card,Das-Bhargava
+2025-01-14,Entertainment - Sridhar-Batra,1150.0,Entertainment,Credit Card,"Sachdeva, Raju and Goda"
+2025-01-13,Groceries - Sarin Group,605.0,Groceries,Credit Card,Palla Ltd
+2025-01-26,"Online Shopping - Rana, Madan and Kala",1711.0,Online Shopping,Credit Card,"Soman, Kala and Sathe"
+2025-01-01,Fuel - Sagar-Salvi,2126.0,Fuel,Credit Card,Vora Inc
+2025-01-07,Utilities - Pandit-Bhatt,768.0,Utilities,Credit Card,Mammen LLC
+2025-01-24,Travel - Chand and Sons,1711.0,Travel,Credit Card,"Mani, Iyengar and Agrawal"
+2025-01-09,"Fuel - Sachdeva, Pradhan and Dutta",985.0,Fuel,Credit Card,Dixit-Sarkar
+2025-01-26,"Utilities - Uppal, Dayal and Sagar",2314.0,Utilities,Credit Card,Prabhu-Setty
+2025-01-26,Credit Card Payment,-20753.48421070161,Payment,Payment,Bank Payment
+2025-02-01,Online Shopping - Narula LLC,3468.0,Online Shopping,Credit Card,Shankar-Jani
+2025-01-31,Medical - Sahota PLC,1972.0,Medical,Credit Card,Mahajan Ltd
+2025-02-02,Online Shopping - Vohra-Sagar,569.0,Online Shopping,Credit Card,Chokshi-Zachariah
+2025-02-21,Online Shopping - Yadav-Kunda,2692.0,Online Shopping,Credit Card,Nadkarni-Parmer
+2025-02-17,"Utilities - Dhillon, Kibe and Bhardwaj",2278.0,Utilities,Credit Card,Sami Ltd
+2025-02-09,Travel - Ahluwalia Group,3679.0,Travel,Credit Card,Balakrishnan LLC
+2025-02-06,Dining - Rao-Subramaniam,3151.0,Dining,Credit Card,"Patla, Bumb and Bhattacharyya"
+2025-02-05,Groceries - Mishra-Dutta,2930.0,Groceries,Credit Card,Sandal and Sons
+2025-02-23,Travel - Deo Group,2725.0,Travel,Credit Card,Halder-Bava
+2025-02-10,"Entertainment - Vora, Nath and Barad",574.0,Entertainment,Credit Card,"Bajwa, Mani and Bumb"
+2025-02-26,"Fuel - Bhasin, Dhar and Oza",3576.0,Fuel,Credit Card,Shan and Sons
+2025-02-07,Utilities - Chhabra-Lal,3498.0,Utilities,Credit Card,Banerjee-Doshi
+2025-02-03,Groceries - Manda Ltd,3296.0,Groceries,Credit Card,"Khare, Uppal and Manda"
+2025-02-12,Utilities - Chand-Srivastava,626.0,Utilities,Credit Card,Kohli Group
+2025-02-22,"Dining - Palan, Murty and Mangat",1509.0,Dining,Credit Card,"Khurana, Sura and Agrawal"
+2025-02-16,Medical - Pal PLC,1756.0,Medical,Credit Card,Borra-Mall
+2025-02-16,"Groceries - Karan, Chandra and Tripathi",3430.0,Groceries,Credit Card,Konda PLC
+2025-02-22,"Fuel - De, Dar and Das",2110.0,Fuel,Credit Card,"Rege, Kara and Bhatia"
+2025-02-18,"Groceries - Nadkarni, Keer and Prakash",2192.0,Groceries,Credit Card,Palla-Datta
+2025-02-15,Dining - Sant-Edwin,2604.0,Dining,Credit Card,Bobal-Dugar
+2025-02-26,Travel - Ben Ltd,2252.0,Travel,Credit Card,Gaba Group
+2025-02-12,Dining - Dave-Brahmbhatt,794.0,Dining,Credit Card,"Palla, Ghosh and Natt"
+2025-02-21,"Online Shopping - Kaul, Korpal and Narula",592.0,Online Shopping,Credit Card,Patel LLC
+2025-02-19,"Entertainment - Sachar, Vala and Mital",3033.0,Entertainment,Credit Card,Bakshi LLC
+2025-02-05,Groceries - Sheth-Shenoy,1586.0,Groceries,Credit Card,"Shetty, Shere and Kamdar"
+2025-02-23,Dining - Pau Group,1458.0,Dining,Credit Card,Misra-Krishnamurthy
+2025-02-07,Dining - Grover-Gupta,2977.0,Dining,Credit Card,"Suresh, Wadhwa and Kota"
+2025-02-06,Utilities - Dash-Bajwa,1067.0,Utilities,Credit Card,Loyal-Munshi
+2025-02-25,Utilities - Srinivas-Ahuja,2454.0,Utilities,Credit Card,Upadhyay Inc
+2025-02-26,Utilities - Arora Ltd,1573.0,Utilities,Credit Card,Dar Ltd
+2025-02-27,Credit Card Payment,-35020.79985374247,Payment,Payment,Bank Payment
+2025-03-17,Dining - Verma-Badami,551.0,Dining,Credit Card,Gera-Chaudhuri
+2025-03-03,Entertainment - Mahajan-Parmar,997.0,Entertainment,Credit Card,"Sant, Sodhi and Sahni"
+2025-03-14,Utilities - Mallick-Sachdev,611.0,Utilities,Credit Card,Kala-Gaba
+2025-03-24,Travel - Sastry Ltd,776.0,Travel,Credit Card,Kala and Sons
+2025-03-26,"Online Shopping - Subramaniam, Savant and Badami",352.0,Online Shopping,Credit Card,Garde LLC
+2025-03-20,Online Shopping - Sarin and Sons,345.0,Online Shopping,Credit Card,Bail-Sinha
+2025-03-21,"Online Shopping - Chatterjee, Krishnamurthy and Banik",858.0,Online Shopping,Credit Card,"Nair, Sridhar and Ramakrishnan"
+2025-03-04,"Utilities - Bal, Raman and Chana",1006.0,Utilities,Credit Card,"Suri, Murty and Boase"
+2025-03-16,Travel - Kothari LLC,664.0,Travel,Credit Card,Madan LLC
+2025-03-10,"Medical - Sarkar, Memon and Chadha",986.0,Medical,Credit Card,Rana-Sekhon
+2025-03-23,Dining - Sundaram Ltd,2422.0,Dining,Credit Card,Trivedi LLC
+2025-03-29,Dining - Kala Group,1336.0,Dining,Credit Card,"Chander, Shan and Sarin"
+2025-03-13,Entertainment - Rau-Mandal,2515.0,Entertainment,Credit Card,"Tank, Sastry and Kumer"
+2025-03-14,"Medical - Mitter, Mohan and Soman",473.0,Medical,Credit Card,Saran-Gera
+2025-03-07,Medical - Sethi-Wali,234.0,Medical,Credit Card,Bala-Bedi
+2025-03-22,Medical - Buch-Parikh,1103.0,Medical,Credit Card,"Bal, Pau and Pai"
+2025-03-22,"Travel - Setty, Sane and Ahuja",2525.0,Travel,Credit Card,Kanda Group
+2025-03-14,Dining - Ramachandran PLC,2236.0,Dining,Credit Card,Bhargava Ltd
+2025-03-06,Travel - Thaman PLC,1225.0,Travel,Credit Card,"Shukla, Ray and Sharma"
+2025-03-24,Travel - Lad-Kuruvilla,826.0,Travel,Credit Card,Edwin Group
+2025-03-03,"Medical - Nazareth, Chakrabarti and Boase",942.0,Medical,Credit Card,Som Group
+2025-03-21,Medical - Butala-Venkataraman,1034.0,Medical,Credit Card,Chada-Wali
+2025-03-26,Fuel - Lad Group,691.0,Fuel,Credit Card,Bhargava-Bora
+2025-03-18,Online Shopping - Chandra-Taneja,2214.0,Online Shopping,Credit Card,Misra PLC
+2025-03-24,Groceries - Shukla PLC,1735.0,Groceries,Credit Card,Rajan-Gole
+2025-03-28,Travel - Mukherjee-Dewan,1577.0,Travel,Credit Card,Biswas-Bajaj
+2025-03-12,Online Shopping - Sachar PLC,1143.0,Online Shopping,Credit Card,"Sarna, Bassi and Choudhary"
+2025-03-26,Credit Card Payment,-18259.389551412485,Payment,Payment,Bank Payment
+2025-04-15,Online Shopping - Joshi PLC,1907.0,Online Shopping,Credit Card,Minhas-Mand
+2025-04-08,Travel - Nagi-Sabharwal,1993.0,Travel,Credit Card,Bhatti Inc
+2025-04-13,Utilities - Bobal Group,984.0,Utilities,Credit Card,"Maharaj, Prasad and Parekh"
+2025-04-15,"Online Shopping - Behl, Wagle and Gulati",2043.0,Online Shopping,Credit Card,"Nagi, Nath and Shanker"
+2025-04-13,"Travel - Bhalla, Kurian and Karnik",768.0,Travel,Credit Card,Sule-Vora
+2025-04-06,Utilities - Pau-Saran,1154.0,Utilities,Credit Card,Shroff Ltd
+2025-04-25,Fuel - Hegde Group,2846.0,Fuel,Credit Card,Bose PLC
+2025-04-12,Entertainment - Pillai-Das,1764.0,Entertainment,Credit Card,Lala-Narayanan
+2025-04-16,"Fuel - Chaudhuri, Sinha and Ganesh",1070.0,Fuel,Credit Card,Devan-Raj
+2025-04-03,Travel - Din-Mann,641.0,Travel,Credit Card,Karpe Group
+2025-04-12,"Medical - Ganguly, Dey and Devi",1112.0,Medical,Credit Card,Bal-Aggarwal
+2025-04-16,"Fuel - Nayak, Gulati and Das",633.0,Fuel,Credit Card,Pandya-Sandhu
+2025-04-19,"Utilities - Salvi, Memon and Mohanty",2485.0,Utilities,Credit Card,"Bera, Pall and Kothari"
+2025-04-04,Dining - Anand-Acharya,2166.0,Dining,Credit Card,Ravel-Ramesh
+2025-04-07,Online Shopping - Zachariah and Sons,2335.0,Online Shopping,Credit Card,Bhatt-Shanker
+2025-04-10,Groceries - Bose Group,1849.0,Groceries,Credit Card,Dubey PLC
+2025-04-01,Medical - Nayak LLC,1890.0,Medical,Credit Card,Dubey-Khatri
+2025-04-23,"Groceries - Dugar, Pandya and Loyal",655.0,Groceries,Credit Card,"Sidhu, Vaidya and Chowdhury"
+2025-04-07,Medical - Apte PLC,1134.0,Medical,Credit Card,Mallick PLC
+2025-04-20,Groceries - Kota PLC,1377.0,Groceries,Credit Card,Gill Ltd
+2025-04-28,"Utilities - Kata, Kashyap and Deo",1354.0,Utilities,Credit Card,Parmar-Ghosh
+2025-04-05,Utilities - More-Gokhale,1299.0,Utilities,Credit Card,"Prabhakar, Narayan and Chahal"
+2025-04-26,Online Shopping - Devi-Madan,2380.0,Online Shopping,Credit Card,"Morar, Date and Tak"
+2025-04-02,Travel - Karan-Chakraborty,2854.0,Travel,Credit Card,Mangat-Gupta
+2025-04-25,Credit Card Payment,-25217.7129676686,Payment,Payment,Bank Payment
+2025-05-19,Dining - Parmar LLC,1979.0,Dining,Credit Card,Radhakrishnan-Panchal
+2025-05-23,Travel - Lal Ltd,1622.0,Travel,Credit Card,Banerjee-Patla
+2025-05-08,"Medical - Bhat, Bhatti and Ganguly",828.0,Medical,Credit Card,Shankar LLC
+2025-05-25,Fuel - Sidhu-Rajagopal,1424.0,Fuel,Credit Card,"Contractor, Raja and Tara"
+2025-05-04,"Travel - Khalsa, Kibe and Kulkarni",2253.0,Travel,Credit Card,Kohli-Karan
+2025-05-03,Online Shopping - Sastry Inc,1838.0,Online Shopping,Credit Card,Khatri Inc
+2025-05-17,"Dining - Barad, Bobal and Kakar",3022.0,Dining,Credit Card,Ganguly PLC
+2025-05-14,Groceries - Gill and Sons,323.0,Groceries,Credit Card,"Nigam, Nigam and Mohanty"
+2025-05-08,"Utilities - Chanda, Rana and Jain",651.0,Utilities,Credit Card,Muni Group
+2025-05-20,"Entertainment - Lal, Goda and Sule",3333.0,Entertainment,Credit Card,De PLC
+2025-05-10,Entertainment - Narain-Dayal,2473.0,Entertainment,Credit Card,Muni Group
+2025-05-08,Entertainment - Kothari and Sons,1561.0,Entertainment,Credit Card,"Gara, Bajaj and Ghosh"
+2025-05-25,Medical - Chacko Ltd,3420.0,Medical,Credit Card,"Ramakrishnan, Reddy and Bala"
+2025-05-02,Medical - Saxena Group,286.0,Medical,Credit Card,Gandhi-Sarraf
+2025-05-17,Groceries - Dugar LLC,3479.0,Groceries,Credit Card,Divan Inc
+2025-05-18,Entertainment - Soni-Rege,252.0,Entertainment,Credit Card,Dhillon-Comar
+2025-05-02,Utilities - Baral LLC,1032.0,Utilities,Credit Card,"Pandey, Doshi and Sood"
+2025-05-02,Travel - Kaur Inc,768.0,Travel,Credit Card,"Misra, Shenoy and Bose"
+2025-05-25,Medical - Mittal-Pall,1054.0,Medical,Credit Card,"Ghosh, Sodhi and Cherian"
+2025-05-04,"Online Shopping - Nanda, Karnik and Pandya",2859.0,Online Shopping,Credit Card,Nadig Group
+2025-05-18,Utilities - Palla LLC,1017.0,Utilities,Credit Card,Khanna-Chatterjee
+2025-05-28,Entertainment - Dugar Group,2456.0,Entertainment,Credit Card,"Sethi, Sule and Dua"
+2025-05-17,Utilities - Saraf LLC,2789.0,Utilities,Credit Card,Datta Ltd
+2025-05-15,Entertainment - Sridhar LLC,3385.0,Entertainment,Credit Card,Dara and Sons
+2025-05-15,"Utilities - Sachar, Oza and Gandhi",1301.0,Utilities,Credit Card,Zachariah-Sathe
+2025-05-08,Fuel - Karan Inc,773.0,Fuel,Credit Card,Padmanabhan-Aurora
+2025-05-13,"Medical - Yadav, Dua and Ravel",1563.0,Medical,Credit Card,"Dada, Nair and Chahal"
+2025-05-10,Medical - Patla-Mitter,1105.0,Medical,Credit Card,"Warrior, Raja and Chad"
+2025-05-19,Medical - Singh-Zachariah,655.0,Medical,Credit Card,Magar LLC
+2025-05-18,Utilities - Kalita-Kumar,2562.0,Utilities,Credit Card,Kumar-Sane
+2025-05-02,"Medical - Gour, Deep and Mitter",1962.0,Medical,Credit Card,"Bahri, Bajwa and Samra"
+2025-05-05,"Dining - Prakash, Mittal and Nazareth",3171.0,Dining,Credit Card,Saha Ltd
+2025-05-27,"Entertainment - Ramakrishnan, Sinha and Toor",2734.0,Entertainment,Credit Card,"Borde, Upadhyay and Dass"
+2025-05-25,"Utilities - Anand, Gill and Kar",2722.0,Utilities,Credit Card,Chaudhary LLC
+2025-05-17,Utilities - Subramanian LLC,510.0,Utilities,Credit Card,Kalita-Dani
+2025-05-02,"Online Shopping - Kapur, Magar and Bhandari",1041.0,Online Shopping,Credit Card,"Bhatt, Palla and Walla"
+2025-05-04,"Travel - Thakkar, Basu and Chahal",906.0,Travel,Credit Card,"Shanker, Pal and Vyas"
+2025-05-20,Dining - Badal-Bains,2122.0,Dining,Credit Card,Upadhyay-Manda
+2025-05-07,"Fuel - Modi, Bansal and Raju",2181.0,Fuel,Credit Card,Shan PLC
+2025-05-16,Travel - Gour-Ahuja,872.0,Travel,Credit Card,Bava and Sons
+2025-05-27,Credit Card Payment,-31400.220327642783,Payment,Payment,Bank Payment
+2025-06-23,"Groceries - Wagle, Hari and Kulkarni",523.0,Groceries,Credit Card,D’Alia-Wali
+2025-06-09,"Dining - Prabhakar, Rao and Palan",1786.0,Dining,Credit Card,Kapoor-Kothari
+2025-06-10,"Dining - Halder, Tella and Nagar",1138.0,Dining,Credit Card,"Solanki, Balakrishnan and Sodhi"
+2025-06-06,"Fuel - Biswas, Kara and Barad",1534.0,Fuel,Credit Card,"Choudhary, Yadav and Nori"
+2025-06-11,"Dining - Mann, Shah and Kaul",880.0,Dining,Credit Card,"More, Karpe and Chakraborty"
+2025-06-26,Online Shopping - Parekh-Agrawal,257.0,Online Shopping,Credit Card,"Dhar, Balasubramanian and Chaudhry"
+2025-06-06,Utilities - Chaudry Group,1427.0,Utilities,Credit Card,Wason PLC
+2025-06-13,Groceries - Sharaf-Sule,2130.0,Groceries,Credit Card,Dasgupta-Nagy
+2025-06-14,Utilities - Nair PLC,904.0,Utilities,Credit Card,"Singhal, Sani and Vala"
+2025-06-04,Entertainment - Kalita Inc,541.0,Entertainment,Credit Card,Thakkar Ltd
+2025-06-20,Utilities - Bhatt-Shanker,814.0,Utilities,Credit Card,Din-Natarajan
+2025-06-22,"Travel - Dutta, Dani and Choudhury",431.0,Travel,Credit Card,Shah-Gara
+2025-06-04,"Dining - Contractor, Goswami and Chauhan",1465.0,Dining,Credit Card,"Oza, Patel and Padmanabhan"
+2025-06-20,"Online Shopping - Maharaj, Gill and Minhas",2102.0,Online Shopping,Credit Card,"Kurian, Doctor and Dugal"
+2025-06-18,Utilities - Palan-Mohan,2179.0,Utilities,Credit Card,Ratti Inc
+2025-06-13,Medical - Jhaveri and Sons,2088.0,Medical,Credit Card,Chandran Inc
+2025-06-03,Fuel - Bawa-Doshi,1035.0,Fuel,Credit Card,"Baral, Lalla and Suresh"
+2025-06-08,Travel - Sama Inc,1274.0,Travel,Credit Card,Nagy Group
+2025-05-31,Online Shopping - Rao LLC,944.0,Online Shopping,Credit Card,Sarma-Wagle
+2025-05-31,"Groceries - Kala, Shankar and Datta",1423.0,Groceries,Credit Card,Thakur-Parikh
+2025-06-27,Fuel - Raj LLC,1210.0,Fuel,Credit Card,"Nayar, Bora and Narayanan"
+2025-06-20,Groceries - Chandra-Hora,1732.0,Groceries,Credit Card,Soni and Sons
+2025-06-06,Utilities - Bhavsar-Karan,2039.0,Utilities,Credit Card,"Balay, Krishnamurthy and Oza"
+2025-06-02,Fuel - Kala-Devi,2002.0,Fuel,Credit Card,Bhatt-Khanna
+2025-06-14,Groceries - Chadha Group,1349.0,Groceries,Credit Card,Lad-Sant
+2025-06-17,"Travel - Toor, Sunder and Basu",1487.0,Travel,Credit Card,Narayan LLC
+2025-06-04,Dining - Sane-Gulati,1369.0,Dining,Credit Card,Kakar-Raj
+2025-06-27,"Online Shopping - Bali, Kurian and Sastry",1661.0,Online Shopping,Credit Card,"Grewal, Sengupta and Memon"
+2025-06-26,Fuel - Verma-Kala,520.0,Fuel,Credit Card,Munshi-Vala
+2025-06-24,Utilities - Sani Group,326.0,Utilities,Credit Card,Badami-Thaker
+2025-06-03,Online Shopping - Varkey-Balakrishnan,534.0,Online Shopping,Credit Card,Krishnan-Varghese
+2025-06-07,Online Shopping - Dixit Group,1548.0,Online Shopping,Credit Card,"Ram, Karan and Goda"
+2025-06-20,"Fuel - Narang, Golla and Rastogi",253.0,Fuel,Credit Card,Bhalla-Cherian
+2025-06-01,Travel - Thakkar-Nayar,1164.0,Travel,Credit Card,Kapoor-Doshi
+2025-06-11,"Utilities - Shere, Mangat and Dutta",1038.0,Utilities,Credit Card,Chahal-Raju
+2025-06-27,Credit Card Payment,-20426.357311401247,Payment,Payment,Bank Payment
+2025-07-17,Utilities - Koshy-Bajwa,1053.0,Utilities,Credit Card,Hayre Group
+2025-07-17,Medical - Balakrishnan LLC,442.0,Medical,Credit Card,"Narayanan, Khosla and Luthra"
+2025-07-15,Utilities - Deep LLC,763.0,Utilities,Credit Card,"Anne, Rattan and Gandhi"
+2025-07-16,Entertainment - Parsa-Contractor,1225.0,Entertainment,Credit Card,Sehgal-Parmer
+2025-07-14,Entertainment - Choudhry Ltd,1072.0,Entertainment,Credit Card,Cherian-Kumar
+2025-07-23,Fuel - Viswanathan-Gera,1034.0,Fuel,Credit Card,Devi-Venkatesh
+2025-07-10,Travel - Sangha-Basak,1684.0,Travel,Credit Card,Balay PLC
+2025-07-26,Fuel - Vohra-Mammen,897.0,Fuel,Credit Card,Prabhu Ltd
+2025-07-01,Online Shopping - Garg-Nagar,2396.0,Online Shopping,Credit Card,"Viswanathan, Johal and Nath"
+2025-06-30,Groceries - Mane Inc,2508.0,Groceries,Credit Card,Chopra LLC
+2025-06-30,Medical - Mani-Kaul,2488.0,Medical,Credit Card,Mani Group
+2025-07-06,Online Shopping - Wagle Ltd,2390.0,Online Shopping,Credit Card,"Randhawa, Bhasin and Loyal"
+2025-07-16,Groceries - Viswanathan Group,235.0,Groceries,Credit Card,Wali-Oommen
+2025-06-30,Fuel - Balan Group,1646.0,Fuel,Credit Card,Kurian-Lala
+2025-06-30,Travel - Kota Ltd,968.0,Travel,Credit Card,Keer PLC
+2025-07-11,Travel - Narayanan Inc,2500.0,Travel,Credit Card,Batta-Thakur
+2025-07-01,Groceries - Bhatia-Halder,1900.0,Groceries,Credit Card,"Mital, Divan and Bal"
+2025-07-23,Groceries - Toor Ltd,2478.0,Groceries,Credit Card,"Ratta, Nori and Bandi"
+2025-07-25,Entertainment - Krishnan-Saraf,2352.0,Entertainment,Credit Card,"Dugar, Chandran and Padmanabhan"
+2025-07-05,"Entertainment - Sami, Sengupta and Rattan",2256.0,Entertainment,Credit Card,Dyal-Narain
+2025-07-22,"Entertainment - Varma, Bhasin and Majumdar",2380.0,Entertainment,Credit Card,"Kulkarni, Kurian and Dave"
+2025-07-03,"Medical - Om, Agrawal and Sharaf",2538.0,Medical,Credit Card,"Gaba, Nayak and Sundaram"
+2025-07-19,Dining - Suri and Sons,607.0,Dining,Credit Card,"Sampath, Khatri and Trivedi"
+2025-07-23,Utilities - Vala Inc,324.0,Utilities,Credit Card,"Wali, Shankar and Parmer"
+2025-07-25,"Travel - Chacko, Dugal and Sibal",2511.0,Travel,Credit Card,Johal PLC
+2025-07-19,Online Shopping - Chokshi Group,277.0,Online Shopping,Credit Card,"Karpe, Grover and Goda"
+2025-07-29,Credit Card Payment,-22191.495253243473,Payment,Payment,Bank Payment
+2025-08-03,Medical - Muni-Mand,353.0,Medical,Credit Card,"Cherian, Karpe and Dash"
+2025-08-07,Utilities - Roy-Bhagat,3864.0,Utilities,Credit Card,Wali-Gara
+2025-07-31,Medical - Patla PLC,403.0,Medical,Credit Card,Gour-Narayanan
+2025-08-09,Travel - Bhatnagar-Luthra,4284.0,Travel,Credit Card,Sastry Group
+2025-08-18,Groceries - Chaudhuri-Raman,3649.0,Groceries,Credit Card,"Mahal, Mandal and Anne"
+2025-08-02,Utilities - Gala-Konda,2141.0,Utilities,Credit Card,Vora PLC
+2025-08-19,Online Shopping - Agarwal Inc,990.0,Online Shopping,Credit Card,Bhakta-Puri
+2025-08-26,Fuel - Agate-Tailor,282.0,Fuel,Credit Card,Vala Group
+2025-08-01,"Medical - Hans, Barad and Goda",566.0,Medical,Credit Card,"Rau, Banerjee and Vig"
+2025-08-12,"Fuel - Krishnamurthy, Badami and Oak",2812.0,Fuel,Credit Card,Varkey Ltd
+2025-08-16,Utilities - Goswami-Gupta,1979.0,Utilities,Credit Card,Dass and Sons
+2025-08-02,Utilities - Tandon LLC,3607.0,Utilities,Credit Card,Mukherjee and Sons
+2025-08-02,Entertainment - Datta Group,348.0,Entertainment,Credit Card,Vala-Ratta
+2025-08-02,Entertainment - Shankar and Sons,2060.0,Entertainment,Credit Card,Varkey LLC
+2025-08-01,Entertainment - Maharaj-Viswanathan,2212.0,Entertainment,Credit Card,Chander LLC
+2025-08-23,"Fuel - Dhingra, Peri and Hora",3266.0,Fuel,Credit Card,Chaudhari-Parikh
+2025-08-07,Online Shopping - Kapur-Pai,2426.0,Online Shopping,Credit Card,Dada Group
+2025-08-05,Dining - Som PLC,3074.0,Dining,Credit Card,Swaminathan PLC
+2025-08-24,Travel - Khosla-Nagar,2347.0,Travel,Credit Card,Khatri-Agate
+2025-07-31,Groceries - Raj-Ramaswamy,2949.0,Groceries,Credit Card,Tak Ltd
+2025-08-14,Medical - Murty-Rattan,1083.0,Medical,Credit Card,Chaudhuri PLC
+2025-08-11,"Fuel - Chad, Bail and Ramakrishnan",3541.0,Fuel,Credit Card,Gandhi-Radhakrishnan
+2025-08-22,Groceries - Keer-Acharya,1241.0,Groceries,Credit Card,Madan Inc
+2025-08-07,"Online Shopping - Agate, Singh and Mand",1960.0,Online Shopping,Credit Card,Kalla Inc
+2025-08-06,Utilities - Munshi-Muni,1159.0,Utilities,Credit Card,Arya PLC
+2025-08-24,"Online Shopping - Hayre, Lad and Rajan",2822.0,Online Shopping,Credit Card,Badami Inc
+2025-08-23,"Dining - Anand, Sehgal and Devan",1481.0,Dining,Credit Card,Sodhi-Thaker
+2025-08-05,Online Shopping - Hayer Inc,237.0,Online Shopping,Credit Card,Wagle-Toor
+2025-08-24,Travel - Choudhury-Dani,454.0,Travel,Credit Card,Chaudhry-Tata
+2025-08-23,Credit Card Payment,-37798.49973747165,Payment,Payment,Bank Payment
+2025-09-17,Fuel - Mishra-Baral,1100.0,Fuel,Credit Card,"Vasa, Tiwari and Sarraf"
+2025-09-13,Travel - Gulati PLC,3778.0,Travel,Credit Card,"Sagar, Kaul and Panchal"
+2025-09-24,"Online Shopping - Raju, Wadhwa and Mand",771.0,Online Shopping,Credit Card,Chad-Chaudry
+2025-09-14,"Medical - Khosla, Lalla and Deshmukh",2689.0,Medical,Credit Card,"Kumer, Walla and Sane"
+2025-09-12,Utilities - Palan-Raval,3340.0,Utilities,Credit Card,"Manda, Shah and Kant"
+2025-09-01,Groceries - Tandon-Roy,213.0,Groceries,Credit Card,Ganesan Inc
+2025-09-07,"Online Shopping - Tandon, Pall and Mitter",1862.0,Online Shopping,Credit Card,"Mitra, Dugar and Vig"
+2025-09-04,"Entertainment - Naidu, Rastogi and Kade",3150.0,Entertainment,Credit Card,"Bajwa, Khare and Dash"
+2025-09-08,"Travel - Desai, Johal and Sridhar",427.0,Travel,Credit Card,"Agrawal, Halder and Parsa"
+2025-08-30,"Dining - Joshi, Dugar and Lall",1482.0,Dining,Credit Card,Mitra-Sibal
+2025-08-30,"Entertainment - Yohannan, Mann and Ramesh",3866.0,Entertainment,Credit Card,Chada and Sons
+2025-09-04,"Dining - Vohra, Magar and Dani",428.0,Dining,Credit Card,Kothari-Sangha
+2025-09-21,Groceries - Varkey-Pai,793.0,Groceries,Credit Card,Kaul Inc
+2025-09-23,Medical - Bhardwaj Inc,2676.0,Medical,Credit Card,Gulati-Iyer
+2025-09-12,"Dining - Ghose, Thaman and Jayaraman",1474.0,Dining,Credit Card,Dixit-Acharya
+2025-09-19,Travel - Kala-Tata,233.0,Travel,Credit Card,Krish-Deshmukh
+2025-09-25,Dining - Dash-Krishnamurthy,813.0,Dining,Credit Card,"Basu, Naidu and Karpe"
+2025-09-13,Entertainment - Dugal Group,1693.0,Entertainment,Credit Card,Deol-Palan
+2025-08-31,Dining - Raju LLC,1563.0,Dining,Credit Card,"Malhotra, Pingle and Dani"
+2025-09-13,Medical - Keer LLC,4129.0,Medical,Credit Card,Ganguly Group
+2025-09-18,Utilities - Nagy Group,2676.0,Utilities,Credit Card,Shetty-Varghese
+2025-09-27,Credit Card Payment,-39917.90577256859,Payment,Payment,Bank Payment

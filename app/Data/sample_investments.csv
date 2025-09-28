@@ -1,0 +1,5 @@
+investment_type,amount_invested,current_value,tax_benefit_section,tax_benefit_amount,maturity_period
+ELSS Mutual Fund,120000,135000,80C,120000,3 years lock-in
+PPF,150000,165000,80C,150000,15 years
+Health Insurance,25000,0,80D,25000,Annual
+Home Loan,200000,0,24(b),200000,20 years

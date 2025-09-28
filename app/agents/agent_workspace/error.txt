@@ -1,0 +1,2 @@
+Transaction extraction failed: 'TransactionIngestionAgent' object has no attribute 'agent'
+Transaction extraction failed: 'TransactionIngestionAgent' object has no attribute 'agent'

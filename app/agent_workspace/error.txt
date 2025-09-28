@@ -1,0 +1,3 @@
+Error initializing agent: 'Agent' object has no attribute 'llm'
+Error initializing agent: 'Agent' object has no attribute 'llm'
+Error in tax strategy optimization: 'TaxCalculationAgent' object has no attribute '_determine_tax_bracket'
